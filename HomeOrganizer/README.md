@@ -20,7 +20,7 @@ This project is an inventory management app developed in Swift for iOS. The app 
 
 ### 1. Clone the Repository
 
-```sh
+sh
 git clone https://github.com/your-username/inventory-management-app.git
 cd inventory-management-app
 
